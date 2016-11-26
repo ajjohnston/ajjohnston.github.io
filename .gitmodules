@@ -1,0 +1,3 @@
+[submodule "windwaker-test"]
+	path = windwaker-test
+	url = https://github.com/ajjohnston/windwaker-test.git
